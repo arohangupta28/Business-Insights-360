@@ -3,6 +3,17 @@
 
 The objective of this project is to design and develop an interactive Power BI dashboard that provides actionable insights across key business domains such as sales, finance, marketing, and supply chain. The goal is to enable data-driven decision-making through effective visualization and analysis.
 
+## 🔗 Interactive Dashboard
+
+You can explore the fully interactive Power BI dashboard using the link below:
+
+👉 Live Dashboard: [Click Here to View](https://app.powerbi.com/view?r=eyJrIjoiOWU2YzI1NjktNWM1Zi00YmQyLThkNWUtNTU0MjZhNjQyMDcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+💡 Notes
+Best viewed on desktop/laptop for full interactivity
+Use filters and slicers to explore different insights
+Hover over visuals to get detailed tooltips
+
 ## 🎯 Purpose
 
 # This project was built to :
